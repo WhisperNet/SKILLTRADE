@@ -22,4 +22,4 @@ SkillTrade Hub is a platform designed to facilitate skill exchange among student
 
 *Contact:*
 
-[ridowan.cse@gmail.com] [rafidjess13@gmail.com] [sumon29@student.sust.edu]
+[ridowan.cse@gmail.com] [gazi51@student.sust.edu] [sumon29@student.sust.edu]
